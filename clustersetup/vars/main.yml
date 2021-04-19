@@ -1,0 +1,6 @@
+---
+# vars file for clustersetu
+ packages:
+        - kubelet 
+        - kubeadm 
+        - kubectl

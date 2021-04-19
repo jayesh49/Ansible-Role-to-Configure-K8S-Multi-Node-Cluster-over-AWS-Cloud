@@ -1,0 +1,1 @@
+kubeadm join 172.31.46.177:6443 --token nsmxec.6tfnl24vv6cq7p3z --discovery-token-ca-cert-hash sha256:2e2752bb6ce24e372e582c85085767d0530b76058eb209e2fb38626f07df5fbe 
